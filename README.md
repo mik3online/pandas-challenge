@@ -9,7 +9,9 @@ In FOLDER "PyCitySchools" --> FOLDER "Resources" --> FILES: "schools_complete.cs
 ---------------------------------------------------
 
 FILE: "WrittenReport_Homework_Mod4_MikeStrati_230627.pdf"
+
 FILE: "WrittenReport_Homework_Mod4_MikeStrati_230627.docx"
+
 ^ above 2 FILES are duplicates, one DOCX & one PDF. Those FILES are the: "Written Report (15 points)"
 
 ---------------------------------------------------
